@@ -36,39 +36,39 @@ const FAQs = () => {
 
       <Grid>
         <Accordion
-          title='What is the commission rate for selling items on Kladz?'
+          title='Why should I care about climate change?'
           body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias molestias animi quod labore minima nam rem? Cum porro ipsum velit minima eveniet quidem quos sequi repellat voluptate. Esse, recusandae? Quo.'
         />
         <Accordion
-          title='What is the commission rate for selling items on Kladz?'
+          title='Why should I care about climate change?'
           body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias molestias animi quod labore minima nam rem? Cum porro ipsum velit minima eveniet quidem quos sequi repellat voluptate. Esse, recusandae? Quo.'
         />
         <Accordion
-          title='What is the commission rate for selling items on Kladz?'
+          title='Why should I care about climate change?'
           body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias molestias animi quod labore minima nam rem? Cum porro ipsum velit minima eveniet quidem quos sequi repellat voluptate. Esse, recusandae? Quo.'
         />
         <Accordion
-          title='What is the commission rate for selling items on Kladz?'
+          title='Why should I care about climate change?'
           body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias molestias animi quod labore minima nam rem? Cum porro ipsum velit minima eveniet quidem quos sequi repellat voluptate. Esse, recusandae? Quo.'
         />
         <Accordion
-          title='What is the commission rate for selling items on Kladz?'
+          title='Why should I care about climate change?'
           body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias molestias animi quod labore minima nam rem? Cum porro ipsum velit minima eveniet quidem quos sequi repellat voluptate. Esse, recusandae? Quo.'
         />
         <Accordion
-          title='What is the commission rate for selling items on Kladz?'
+          title='Why should I care about climate change?'
           body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias molestias animi quod labore minima nam rem? Cum porro ipsum velit minima eveniet quidem quos sequi repellat voluptate. Esse, recusandae? Quo.'
         />        
         <Accordion
-          title='What is the commission rate for selling items on Kladz?'
+          title='Why should I care about climate change?'
           body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias molestias animi quod labore minima nam rem? Cum porro ipsum velit minima eveniet quidem quos sequi repellat voluptate. Esse, recusandae? Quo.'
         />
         <Accordion
-          title='What is the commission rate for selling items on Kladz?'
+          title='Why should I care about climate change?'
           body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias molestias animi quod labore minima nam rem? Cum porro ipsum velit minima eveniet quidem quos sequi repellat voluptate. Esse, recusandae? Quo.'
         />
         <Accordion
-          title='What is the commission rate for selling items on Kladz?'
+          title='Why should I care about climate change?'
           body='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias molestias animi quod labore minima nam rem? Cum porro ipsum velit minima eveniet quidem quos sequi repellat voluptate. Esse, recusandae? Quo.'
         />        
       </Grid>
